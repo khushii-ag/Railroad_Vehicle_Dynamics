@@ -1,2 +1,2 @@
 # Railroad_Vehicle_Dynamics
-Analysis of wheel-track interaction, longitudinal and vertical dynamics of railway bogie.
+Analysis of wheel-track interaction, lateral, longitudinal and vertical dynamics of railway bogie.
